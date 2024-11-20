@@ -132,9 +132,3 @@ Ansambl modellarni yanada samarali ishlashi uchun **Optuna** yordamida hiperpara
 ## Foydalanish
 Yuqoridagi ustunlar va yangi yaratilgan xususiyatlar hosildorlikni yanada aniqroq bashorat qilishga yordam beradi. Ushbu dataset turli xil regression algoritmlar, shuningdek, ansambl modellari bilan tahlil qilish uchun ishlatilishi mumkin.
 """
-
-# README faylini yozish
-with open("README.md", "w") as file:
-    file.write(readme_content)
-
-print("README.md fayli muvaffaqiyatli yaratildi!")
