@@ -1,7 +1,4 @@
-# README faylini yaratish uchun kod
-
-readme_content = """
-# Dataset README
+## Dataset README
 
 ## Dataset haqida
 Bu dataset **dehqonchilik va hosil samaradorligi**ni tahlil qilish uchun yaratilgan. Ushbu ma'lumotlar turli xil omillar, jumladan, iqlim sharoitlari va changlatish omillari asosida hosil (yield) miqdorini bashorat qilish uchun ishlatilishi mumkin.
